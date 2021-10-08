@@ -2,4 +2,8 @@
 sudo docker login
 
 sudo docker build --tag saas_backendapi .
-docker run --publish 8000:8000 saas_backendapi
+sudo docker run --publish 8000:8000 saas_backendapi
+
+
+#docker images list
+sudo docker image ls
