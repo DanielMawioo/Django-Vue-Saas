@@ -1,0 +1,5 @@
+# set up command for docker on linux.
+sudo docker login
+
+sudo docker build --tag saas_backendapi .
+docker run --publish 8000:8000 saas_backendapi
