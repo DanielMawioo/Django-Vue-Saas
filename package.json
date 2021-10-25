@@ -1,0 +1,36 @@
+{
+  "name": "django-vue-saas",
+  "version": "1.0.0",
+  "description": "A Saas Django-backend and  vue frontent, payments -stripe/Mpesa.",
+  "main": "index.js",
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "1.1.0"
+},
+"dependencies": {
+    "grunt-cli": "^1.3.2",
+    "grunt-sass": "^3.1.0",
+    "node-sass": "^4.14.1"
+},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielMawioo/Django-Vue-Saas.git"
+  },
+  "keywords": [
+    "Django",
+    "vue",
+    "Stripe",
+    "Mpesa",
+    "Saas"
+  ],
+  "author": "Daniel mawioo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielMawioo/Django-Vue-Saas/issues"
+  },
+  "homepage": "https://github.com/DanielMawioo/Django-Vue-Saas#readme"
+}
